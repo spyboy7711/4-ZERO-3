@@ -1,3 +1,4 @@
+#test
 #!/bin/bash
 #color
 red='\e[31m'
